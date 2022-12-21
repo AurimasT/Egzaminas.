@@ -1,0 +1,69 @@
+.container-4 {
+    display: flex;
+    background: #1c1c1c;
+    max-width: 1400px;
+    height: 600px;
+    width: 100%;
+}
+
+.chesirepic {
+    background: transparent url(/app/images/chesire-1.png) 100% 100% no-repeat;
+    width: 390px;
+    height: 170px;
+}
+
+.container-4 img {
+    width: 100%;
+    height: 100%;
+}
+
+.second {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+
+.text-2 {
+    padding-left: 260px;
+   width: 715px;
+   
+}
+
+.container-4 h1 {
+    color: white;
+    font-size: 2.3em;
+}
+
+.container-4 p {
+    color: #ffffffa8;
+}
+
+.container-4 img {
+    margin-bottom: 20px;
+}
+
+#eye {
+    background: #E27866;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#chat {
+    background: #E27866;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-4 h3 {
+    color: white;
+}

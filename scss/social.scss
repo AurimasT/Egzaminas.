@@ -1,0 +1,52 @@
+.container-2 {
+    display: flex;
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+    margin: 40px;
+}
+
+.wifi {
+    width: 25px;
+    height: 30px;
+    color: #eca69a ;
+}
+
+.social-media {
+    width: 75%;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    margin-left: 5%;
+}
+
+.social-media-1 {
+    overflow: hidden;
+    width: 30px;
+    height: 30px;
+}
+
+.icon {
+    position: relative;
+    right: 200px;
+    display: flex;
+    gap: 75%;
+    color: #dea899;
+    
+}
+
+.container-2 h2 {
+
+    margin-bottom: 10px;
+}
+
+.container-2 h4 {
+    color: rgba(0, 0, 0, 0.556);
+    font-weight: 100;
+    width: 60%;
+    line-height: 1.6em;
+}

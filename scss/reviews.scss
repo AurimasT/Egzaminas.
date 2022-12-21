@@ -1,0 +1,48 @@
+.container-7 {
+    display: flex;
+    flex-direction: column;
+    background: wheat;
+    max-width: 1400px;
+    max-height: 591px;
+    height: 100%;
+    width: 100%;
+}
+
+.customers {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-7 h1 {
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-size: 2.5em;
+}
+
+.reviews {
+    max-width: 1400px;
+    max-height: 591px;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 591px;
+   
+}
+
+.reviews p {
+    background: #6696E2;
+    margin: 0 50px;
+
+}
+
+.customers img {
+    margin: 30px;
+    width: 64px;
+    height: 2px;
+}
+
+.form-1 {
+    margin-bottom: 30px;
+}

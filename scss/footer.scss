@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background: #1C1C1C;
+    padding: 20px 180px;
+    max-width: 1400px;
+    height: 123px;
+}
+
+footer p {
+    color:rgba(255, 255, 255, 0.468);
+}
+
+.icon-2 {
+    display: flex;
+    gap: 100%;
+    color:#d07c64;
+}
